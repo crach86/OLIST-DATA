@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos (baixar do Kaggle - link no README)
+dados/
+
+# CSVs exportados para o Power BI
+dados_tratados/
+
+# Banco SQLite gerado pelo notebook
+*.db
+
+# Arquivos automáticos do Python e do Jupyter
+__pycache__/
+.ipynb_checkpoints/
